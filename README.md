@@ -2,5 +2,5 @@
 A python App to manage for managing a coin collection
 
 ## Prerequisites
-- TKinter
+- PyQt6
 - Pandas
