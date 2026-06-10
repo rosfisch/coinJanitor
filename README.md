@@ -1,5 +1,5 @@
 # coinJanitor
-A python App to manage for managing a coin collection
+A python App for managing a coin collection
 
 ## Prerequisites
 - PyQt6
